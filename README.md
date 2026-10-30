@@ -16,7 +16,7 @@
 
 ---
 
-## ðŸ›  Tech Stack
+## &#x1F6E0; Tech Stack
 
 <div align="center">
 
@@ -26,20 +26,20 @@
 
 ---
 
-## ðŸš€ Featured Projects
+## &#x1F680; Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack |
 |:-------:|:------------|:-----:|
-| ðŸŒ± **[agri-track-thrive](https://github.com/aazibtariq1/agri-track-thrive)** | AI-powered agricultural management platform that helps farmers track crops, predict yields, and optimize resources | ![Python](https://img.shields.io/badge/-Python-1a1b27?style=flat&logo=python&logoColor=7aa2f7) ![AI](https://img.shields.io/badge/-AI-1a1b27?style=flat&logo=openai&logoColor=bb9af7) |
-| ðŸ“ˆ **[growthexperts](https://github.com/aazibtariq1/growthexperts)** | Automation-first growth agency platform for scaling businesses with AI-driven workflows and lead generation | ![Next.js](https://img.shields.io/badge/-Next.js-1a1b27?style=flat&logo=next.js&logoColor=c0caf5) ![TypeScript](https://img.shields.io/badge/-TypeScript-1a1b27?style=flat&logo=typescript&logoColor=7aa2f7) |
+| &#x1F331; **[agri-track-thrive](https://github.com/aazibtariq1/agri-track-thrive)** | AI-powered agricultural management platform helping farmers track crops, predict yields, and optimize resources autonomously. | ![Python](https://img.shields.io/badge/-Python-1a1b27?style=flat&logo=python&logoColor=7aa2f7) ![AI](https://img.shields.io/badge/-AI-1a1b27?style=flat&logo=openai&logoColor=bb9af7) |
+| &#x1F4C8; **[growthexperts](https://github.com/aazibtariq1/growthexperts)** | Automation-first growth agency platform scaling businesses with AI-driven workflows and intelligent lead generation. | ![Next.js](https://img.shields.io/badge/-Next.js-1a1b27?style=flat&logo=next.js&logoColor=c0caf5) ![TypeScript](https://img.shields.io/badge/-TypeScript-1a1b27?style=flat&logo=typescript&logoColor=7aa2f7) |
 
 </div>
 
 ---
 
-## ðŸ“Š GitHub Stats
+## &#x1F4CA; GitHub Stats
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 ---
 
-## ðŸ Contribution Activity
+## &#x1F40D; Contribution Activity
 
 <div align="center">
 
@@ -71,7 +71,7 @@
 
 ---
 
-## ðŸ¤ Let's Connect
+## &#x1F91D; Let's Connect
 
 <div align="center">
 
